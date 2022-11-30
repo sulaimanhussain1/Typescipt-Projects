@@ -1,4 +1,4 @@
-# Typescipt-Projects
+# Typescript-Projects
 
      This is typescript projects repo....
 
